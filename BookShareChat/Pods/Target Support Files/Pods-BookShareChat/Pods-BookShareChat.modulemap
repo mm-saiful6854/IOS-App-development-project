@@ -1,0 +1,6 @@
+framework module Pods_BookShareChat {
+  umbrella header "Pods-BookShareChat-umbrella.h"
+
+  export *
+  module * { export * }
+}
